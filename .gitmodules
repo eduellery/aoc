@@ -1,3 +1,6 @@
 [submodule "aoc-2015"]
 	path = aoc-2015
 	url = https://github.com/eduellery/aoc-2015.git
+[submodule "aoc-2016"]
+	path = aoc-2016
+	url = https://github.com/eduellery/aoc-2016.git
