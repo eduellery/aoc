@@ -4,3 +4,6 @@
 [submodule "aoc-2016"]
 	path = aoc-2016
 	url = https://github.com/eduellery/aoc-2016.git
+[submodule "advent2017-fast"]
+	path = advent2017-fast
+	url = https://github.com/eduellery/advent2017-fast.git
