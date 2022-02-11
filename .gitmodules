@@ -10,3 +10,6 @@
 [submodule "advent2018-fast"]
 	path = advent2018-fast
 	url = https://github.com/eduellery/advent2018-fast.git
+[submodule "advent2019-fast"]
+	path = advent2019-fast
+	url = https://github.com/eduellery/advent2019-fast.git
