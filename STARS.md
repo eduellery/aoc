@@ -1,4 +1,4 @@
-# Advent of Code stars ⭐️
+# 🌟 Advent of Code Stars 🌟
 
 <!--- advent_readme_stars 2015 table --->
 ## 2015 Results

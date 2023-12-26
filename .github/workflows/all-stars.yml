@@ -18,8 +18,9 @@ jobs:
           userId: 220346
           sessionCookie: ${{ secrets.AOC_SESSION }}
           tableMarker: "<!--- advent_readme_stars 2015 table --->"
-          starSymbol: "🌟"
+          starSymbol: "🐐"
           readmeLocation: "STARS.md"
+          headerPrefix: "## ⭐"
       - uses: k2bd/advent-readme-stars@v1
         name: "2016 stars"
         with:
@@ -27,8 +28,9 @@ jobs:
           userId: 220346
           sessionCookie: ${{ secrets.AOC_SESSION }}
           tableMarker: "<!--- advent_readme_stars 2016 table --->"
-          starSymbol: "🌟"
+          starSymbol: "🐒"
           readmeLocation: "STARS.md"
+          headerPrefix: "## ⭐"
       - uses: k2bd/advent-readme-stars@v1
         name: "2017 stars"
         with:
@@ -36,8 +38,9 @@ jobs:
           userId: 220346
           sessionCookie: ${{ secrets.AOC_SESSION }}
           tableMarker: "<!--- advent_readme_stars 2017 table --->"
-          starSymbol: "🌟"
+          starSymbol: "🐓"
           readmeLocation: "STARS.md"
+          headerPrefix: "## ⭐"
       - uses: k2bd/advent-readme-stars@v1
         name: "2018 stars"
         with:
@@ -45,8 +48,9 @@ jobs:
           userId: 220346
           sessionCookie: ${{ secrets.AOC_SESSION }}
           tableMarker: "<!--- advent_readme_stars 2018 table --->"
-          starSymbol: "🌟"
+          starSymbol: "🐕"
           readmeLocation: "STARS.md"
+          headerPrefix: "## ⭐"
       - uses: k2bd/advent-readme-stars@v1
         name: "2019 stars"
         with:
@@ -54,8 +58,9 @@ jobs:
           userId: 220346
           sessionCookie: ${{ secrets.AOC_SESSION }}
           tableMarker: "<!--- advent_readme_stars 2019 table --->"
-          starSymbol: "🌟"
+          starSymbol: "🐖"
           readmeLocation: "STARS.md"
+          headerPrefix: "## ⭐"
       - uses: k2bd/advent-readme-stars@v1
         name: "2020 stars"
         with:
@@ -63,8 +68,9 @@ jobs:
           userId: 220346
           sessionCookie: ${{ secrets.AOC_SESSION }}
           tableMarker: "<!--- advent_readme_stars 2020 table --->"
-          starSymbol: "🌟"
+          starSymbol: "🐀"
           readmeLocation: "STARS.md"
+          headerPrefix: "## ⭐"
       - uses: k2bd/advent-readme-stars@v1
         name: "2021 stars"
         with:
@@ -72,8 +78,9 @@ jobs:
           userId: 220346
           sessionCookie: ${{ secrets.AOC_SESSION }}
           tableMarker: "<!--- advent_readme_stars 2021 table --->"
-          starSymbol: "🌟"
+          starSymbol: "🐂"
           readmeLocation: "STARS.md"
+          headerPrefix: "## ⭐"
       - uses: k2bd/advent-readme-stars@v1
         name: "2022 stars"
         with:
@@ -81,8 +88,9 @@ jobs:
           userId: 220346
           sessionCookie: ${{ secrets.AOC_SESSION }}
           tableMarker: "<!--- advent_readme_stars 2022 table --->"
-          starSymbol: "🌟"
+          starSymbol: "🐅"
           readmeLocation: "STARS.md"
+          headerPrefix: "## ⭐"
       - uses: k2bd/advent-readme-stars@v1
         name: "2023 stars"
         with:
@@ -90,8 +98,9 @@ jobs:
           userId: 220346
           sessionCookie: ${{ secrets.AOC_SESSION }}
           tableMarker: "<!--- advent_readme_stars 2023 table --->"
-          starSymbol: "🌟"
+          starSymbol: "🐇"
           readmeLocation: "STARS.md"
+          headerPrefix: "## ⭐"
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update README stars
