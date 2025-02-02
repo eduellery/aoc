@@ -215,3 +215,8 @@
 | [Day 2](https://adventofcode.com/2023/day/2) | 🐇 | 🐇 |
 | [Day 3](https://adventofcode.com/2023/day/3) | 🐇 | 🐇 |
 <!--- advent_readme_stars 2023 table --->
+
+<!--- advent_readme_stars 2024 table --->
+## ⭐ 2024 Results
+
+<!--- advent_readme_stars 2024 table --->
