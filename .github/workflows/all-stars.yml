@@ -101,6 +101,16 @@ jobs:
           starSymbol: "🐇"
           readmeLocation: "STARS.md"
           headerPrefix: "## ⭐"
+      - uses: k2bd/advent-readme-stars@v1
+        name: "2024 stars"
+        with:
+          year: 2024
+          userId: 220346
+          sessionCookie: ${{ secrets.AOC_SESSION }}
+          tableMarker: "<!--- advent_readme_stars 2024 table --->"
+          starSymbol: "🐉"
+          readmeLocation: "STARS.md"
+          headerPrefix: "## ⭐"
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update README stars
