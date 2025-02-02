@@ -16,4 +16,6 @@ Repos named `adventYEAR-fast` are Voltara's fast solutions applied to my inputs
 
 ## My stars
 
+⭐ Total stars: 328 (of 600)
+
 You can find my stars [here](STARS.md)
