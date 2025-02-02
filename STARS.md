@@ -50,6 +50,18 @@
 | [Day 11](https://adventofcode.com/2016/day/11) | 🐒 | 🐒 |
 | [Day 12](https://adventofcode.com/2016/day/12) | 🐒 | 🐒 |
 | [Day 13](https://adventofcode.com/2016/day/13) | 🐒 | 🐒 |
+| [Day 14](https://adventofcode.com/2016/day/14) | 🐒 | 🐒 |
+| [Day 15](https://adventofcode.com/2016/day/15) | 🐒 | 🐒 |
+| [Day 16](https://adventofcode.com/2016/day/16) | 🐒 | 🐒 |
+| [Day 17](https://adventofcode.com/2016/day/17) | 🐒 | 🐒 |
+| [Day 18](https://adventofcode.com/2016/day/18) | 🐒 | 🐒 |
+| [Day 19](https://adventofcode.com/2016/day/19) | 🐒 | 🐒 |
+| [Day 20](https://adventofcode.com/2016/day/20) | 🐒 | 🐒 |
+| [Day 21](https://adventofcode.com/2016/day/21) | 🐒 | 🐒 |
+| [Day 22](https://adventofcode.com/2016/day/22) | 🐒 | 🐒 |
+| [Day 23](https://adventofcode.com/2016/day/23) | 🐒 | 🐒 |
+| [Day 24](https://adventofcode.com/2016/day/24) | 🐒 | 🐒 |
+| [Day 25](https://adventofcode.com/2016/day/25) | 🐒 | 🐒 |
 <!--- advent_readme_stars 2016 table --->
 
 <!--- advent_readme_stars 2017 table --->
