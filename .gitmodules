@@ -6,3 +6,6 @@
 	path = aoc-2016
 	url = https://github.com/eduellery/aoc-2016.git
 	ignore = untracked
+[submodule "aoc-2017"]
+	path = aoc-2017
+	url = https://github.com/eduellery/aoc-2017.git
