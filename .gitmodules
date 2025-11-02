@@ -9,3 +9,4 @@
 [submodule "aoc-2017"]
 	path = aoc-2017
 	url = https://github.com/eduellery/aoc-2017.git
+        ignore = untracked
