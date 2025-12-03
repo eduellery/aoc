@@ -1,7 +1,7 @@
 name: Update README ⭐
 on:
-  schedule:
-    - cron: "8 5 13 7 *"  # Runs at 05:08, on day 13 of the month, only in July
+  # schedule:
+  #   - cron: "8 5 13 7 *"  # Runs at 05:08, on day 13 of the month, only in July
   workflow_dispatch:
 
 jobs:
@@ -109,6 +109,16 @@ jobs:
           sessionCookie: ${{ secrets.AOC_SESSION }}
           tableMarker: "<!--- advent_readme_stars 2024 table --->"
           starSymbol: "🐉"
+          readmeLocation: "STARS.md"
+          headerPrefix: "## ⭐"
+      - uses: k2bd/advent-readme-stars@v1
+        name: "2025 stars"
+        with:
+          year: 2025
+          userId: 220346
+          sessionCookie: ${{ secrets.AOC_SESSION }}
+          tableMarker: "<!--- advent_readme_stars 2025 table --->"
+          starSymbol: "🐍"
           readmeLocation: "STARS.md"
           headerPrefix: "## ⭐"
       - uses: stefanzweifel/git-auto-commit-action@v5
