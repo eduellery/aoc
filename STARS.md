@@ -233,3 +233,10 @@
 | [Day 10](https://adventofcode.com/2024/day/10) | 🐉 | 🐉 |
 | [Day 11](https://adventofcode.com/2024/day/11) | 🐉 | 🐉 |
 <!--- advent_readme_stars 2024 table --->
+
+<!--- advent_readme_stars 2025 table --->
+## ⭐ 2025 Results
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+<!--- advent_readme_stars 2025 table --->
