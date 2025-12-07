@@ -16,7 +16,7 @@ My Advent of Code journey so far...
 | [2022](https://adventofcode.com/2022) | [eduellery/aoc-2022](https://github.com/eduellery/aoc-2022) | Typescript | No (08)   |
 | [2023](https://adventofcode.com/2023) | [eduellery/aoc-2023](https://github.com/eduellery/aoc-2023) | Swift      | No (06)   |
 | [2024](https://adventofcode.com/2024) | [eduellery/aoc-2024](https://github.com/eduellery/aoc-2024) | Go         | No (22)   |
-| [2025](https://adventofcode.com/2025) | [eduellery/aoc-2025](https://github.com/eduellery/aoc-2025) | Java       | TBD       |
+| [2025](https://adventofcode.com/2025) | [eduellery/aoc-2025](https://github.com/eduellery/aoc-2025) | Java       | Ongoing   |
 
 * to be refactored
 
